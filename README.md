@@ -1,4 +1,6 @@
-### Installing Node.js and npm using the NVM
+# React basic menu
+
+## Installing Node.js and npm using the NVM
 
 1. Installing NVM (Node Version Manager) script
 
@@ -58,7 +60,7 @@ node --version
 npm --version
 ```
 
-### Installing Node.js and npm using the NVM
+## Installing Node.js and npm using the NVM
 
 1. Setting up the project or local environment
 
@@ -391,8 +393,6 @@ createRoot(document.getElementById("root")).render(
 
 ![image sidebar 2](documentation/image-sidebar-2.png)
 
-
-## Code Structure
 
 ## Run the Project
 
